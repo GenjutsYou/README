@@ -99,7 +99,7 @@ const questions = [
     },
     {
       type: 'input',
-      name: 'demoURL',
+      name: 'URL',
       message: 'Enter the URL:',
     },
   ];

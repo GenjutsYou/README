@@ -157,7 +157,7 @@ function renderLicenseSection(license) {
 
 // Function to generate the markdown content based on the user's answers
 function generateMarkdown(data) {
-  const link = `[${data.title}](${data.deployedURL})`;
+  const link = `[${data.title}](${data.URL})`;
   const licenseBadge = renderLicenseBadge(data.license);
   const licenseSection = renderLicenseSection(data.license);
 
