@@ -8,10 +8,20 @@ Create README file
 
 ## Table of Contents
 
+- [Installation](#installation)
+- [Tests](#tests)
 - [Credits](#credits)
 - [License](#license)
 - [Contact](#contact)
 - [Link](#link)
+
+## Installation
+
+    git clone git@github.com:GenjutsYou/README-Generator.git
+
+## Tests
+
+    npm start
 
 ## Credits
 
