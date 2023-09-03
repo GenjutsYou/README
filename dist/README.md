@@ -1,10 +1,10 @@
-# README-Generator
+# Redux-Store
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-Create README file
+platform to use Redux to manage global state instead of the Context API
 
 ## Table of Contents
 
@@ -20,11 +20,11 @@ Create README file
 
 ## Installation
 
-
+npm i
 
 ## Usage
 
-
+The e-commerce platform has switched from using the Context API to Redux for global state management.
 
 ## Credits
 
@@ -36,7 +36,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Features
 
-
+Implementation of Redux for global state management instead of the Context API.
 
 ## Contribution
 
@@ -53,4 +53,4 @@ For any questions or inquiries, please reach out to me:
 
 ## Link
 
-[README-Generator](https://drive.google.com/file/d/1daR8M9Pw_MQcO2j7Kl0PpbubgC6bMdwO/view)
+[Redux-Store](https://github.com/GenjutsYou/Redux-Store)
